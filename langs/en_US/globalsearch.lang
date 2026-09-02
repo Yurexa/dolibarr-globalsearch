@@ -1,0 +1,28 @@
+ModuleGlobalSearch=Global search
+GlobalSearchDescription=Adds a cross-module search to the Dolibarr search field suggestions.
+GlobalSearch=Global search
+GlobalSearchFor=Global search: %s
+GlobalSearchResults=Global search results
+GlobalSearchNoTerm=Enter a term to search for.
+GlobalSearchNoResult=No result found in accessible categories.
+GlobalSearchMoreResults=Results are limited to %s per category.
+GlobalSearchThirdParties=Third parties
+GlobalSearchContacts=Contacts
+GlobalSearchProducts=Products and services
+GlobalSearchCustomerInvoices=Customer invoices
+GlobalSearchSupplierInvoices=Supplier invoices
+
+GlobalSearchSeeAll=Show all results
+GlobalSearchCustomerOrders=Customer orders
+GlobalSearchProposals=Commercial proposals
+GlobalSearchContracts=Contracts
+GlobalSearchProjects=Projects
+GlobalSearchTasks=Tasks
+
+GlobalSearchSetup=Global search settings
+GlobalSearchSpotlight=Search palette
+GlobalSearchSpotlightEnabled=Enable central palette
+GlobalSearchShortcut=Keyboard shortcut
+GlobalSearchMinChars=Minimum number of characters
+GlobalSearchLimit=Results displayed per category
+GlobalSearchSpotlightPlaceholder=Search in Dolibarr…

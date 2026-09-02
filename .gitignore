@@ -1,0 +1,10 @@
+# Release archives
+/module_*.zip
+
+# Editor files
+/.idea/
+/.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

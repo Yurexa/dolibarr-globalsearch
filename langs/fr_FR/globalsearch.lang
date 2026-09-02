@@ -1,0 +1,28 @@
+ModuleGlobalSearch=Recherche globale
+GlobalSearchDescription=Ajoute une recherche transversale aux suggestions du champ de recherche Dolibarr.
+GlobalSearch=Recherche globale
+GlobalSearchFor=Recherche globale : %s
+GlobalSearchResults=Résultats de la recherche globale
+GlobalSearchNoTerm=Saisissez un terme à rechercher.
+GlobalSearchNoResult=Aucun résultat trouvé dans les catégories accessibles.
+GlobalSearchMoreResults=Résultats limités à %s par catégorie.
+GlobalSearchThirdParties=Tiers
+GlobalSearchContacts=Contacts
+GlobalSearchProducts=Produits et services
+GlobalSearchCustomerInvoices=Factures clients
+GlobalSearchSupplierInvoices=Factures fournisseurs
+
+GlobalSearchSeeAll=Afficher tous les résultats
+GlobalSearchCustomerOrders=Commandes clients
+GlobalSearchProposals=Propositions commerciales
+GlobalSearchContracts=Contrats
+GlobalSearchProjects=Projets
+GlobalSearchTasks=Tâches
+
+GlobalSearchSetup=Paramètres de la recherche globale
+GlobalSearchSpotlight=Palette de recherche
+GlobalSearchSpotlightEnabled=Activer la palette centrale
+GlobalSearchShortcut=Raccourci clavier
+GlobalSearchMinChars=Nombre minimal de caractères
+GlobalSearchLimit=Résultats affichés par catégorie
+GlobalSearchSpotlightPlaceholder=Rechercher dans Dolibarr…
