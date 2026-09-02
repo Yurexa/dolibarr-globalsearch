@@ -26,3 +26,11 @@ The package contains `globalsearch/` at its root and can be installed by Dolibar
 ## Licence
 
 GPL-3.0-or-later. See [docs/COPYING](docs/COPYING).
+## Support the project
+
+If GlobalSearch is useful to you, you can support its development by [buying me a virtual coffee on Ko-fi](https://ko-fi.com/yurexa). This is entirely optional.
+
+## Soutenir le projet
+
+Si GlobalSearch vous est utile, vous pouvez [m’offrir un café virtuel sur Ko-fi](https://ko-fi.com/yurexa). Cette contribution est entièrement facultative.
+
