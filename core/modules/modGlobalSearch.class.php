@@ -30,7 +30,7 @@ class modGlobalSearch extends DolibarrModules
 		$this->description = 'GlobalSearchDescription';
 		$this->descriptionlong = 'GlobalSearchDescription';
 		$this->editor_name = 'GlobalSearch';
-		$this->version = '1.3.0';
+		$this->version = '1.3.1';
 		$this->const_name = 'MAIN_MODULE_GLOBALSEARCH';
 		$this->picto = 'search';
 
@@ -67,4 +67,5 @@ class modGlobalSearch extends DolibarrModules
 		}
 	}
 }
+
 

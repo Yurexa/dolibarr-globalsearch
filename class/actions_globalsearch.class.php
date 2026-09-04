@@ -67,7 +67,7 @@ class ActionsGlobalSearch
 			'img' => 'search',
 			'label' => $langs->trans('GlobalSearch'),
 			'text' => img_picto('', 'search', 'class="pictofixedwidth"').' '.$langs->trans('GlobalSearch'),
-			'url' => DOL_URL_ROOT.'/custom/globalsearch/search.php',
+			'url' => dol_buildpath('/globalsearch/search.php', 1),
 		);
 
 		return 0;
@@ -91,3 +91,4 @@ class ActionsGlobalSearch
 		}
 		return 0;
 	}}
+

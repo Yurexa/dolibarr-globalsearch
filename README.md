@@ -17,7 +17,7 @@ GlobalSearch is an external Dolibarr module that adds a permission-aware global 
 
 ## Installation
 
-1. Upload `module_globalsearch-1.3.0.zip` through **Home > Setup > Modules/Applications > Deploy an external module**.
+1. Upload `module_globalsearch-1.3.1.zip` through **Home > Setup > Modules/Applications > Deploy an external module**.
 2. Activate **Global search**.
 3. Configure the optional palette from the module setup page.
 
@@ -33,4 +33,5 @@ If GlobalSearch is useful to you, you can support its development by [buying me 
 ## Soutenir le projet
 
 Si GlobalSearch vous est utile, vous pouvez [m’offrir un café virtuel sur Ko-fi](https://ko-fi.com/yurexa). Cette contribution est entièrement facultative.
+
 
